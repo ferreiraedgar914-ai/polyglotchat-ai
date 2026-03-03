@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-  "dev": "tsx servidor.ts",
+ "scripts": {
+  "dev": "tsx server.ts",
   "build": "vite build",
-  "start": "tsx servidor.ts"
+  "start": "tsx server.ts"
 },
   "dependencies": {
     "@google/genai": "^1.29.0",
