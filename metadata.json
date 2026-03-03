@@ -1,0 +1,8 @@
+{
+  "name": "PolyglotChat AI",
+  "description": "Real-time multimodal translation chat with support for text, images, and documents using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
